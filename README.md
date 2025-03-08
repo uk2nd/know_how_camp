@@ -60,3 +60,6 @@ https://www.figma.com/board/TcIhRD7YabasR52gCAKNpa/%E7%94%BB%E9%9D%A2%E9%81%B7%E
 
 ■ER図
 ./er
+
+■issue
+https://github.com/users/uk2nd/projects/1/views/1?pane=issue&itemId=100956070&issue=uk2nd%7Cknow_how_camp%7C15
