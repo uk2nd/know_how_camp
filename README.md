@@ -57,3 +57,9 @@ MVPリリース時：
 
 ■画面遷移図 & 画面イメージ
 https://www.figma.com/board/TcIhRD7YabasR52gCAKNpa/%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%E5%9B%B3?node-id=0-1&t=xsNCVXh6CLfKtp9B-1
+
+■ER図
+./er
+
+■issue
+https://github.com/users/uk2nd/projects/1/views/1?pane=issue&itemId=100956070&issue=uk2nd%7Cknow_how_camp%7C15
