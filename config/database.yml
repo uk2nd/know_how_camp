@@ -21,7 +21,7 @@ production:
   primary: &primary_production
     <<: *default
     database: <%= ENV["DATABASE_NAME"] %>
-    host: <%= ENV["DATABASE_HOST"] %>
+    host: dpg-cvg1h0dsvqrc73d5fln0-a
     username: <%= ENV["DATABASE_USER"] %>
     password: <%= ENV["DATABASE_PASSWORD"] %>
 
