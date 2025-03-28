@@ -66,3 +66,6 @@ https://github.com/users/uk2nd/projects/1/views/1?pane=issue&itemId=100956070&is
 
 ■環境構築手順
 https://hackmd.io/@SKjw2RY-RNCUNSdJfEWPig/BJvZhOLv0
+
+■デプロイ手順
+https://render.com/docs/deploy-rails#3-update-your-app-for-render
