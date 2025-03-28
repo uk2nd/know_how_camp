@@ -367,6 +367,7 @@ DEPENDENCIES
   jbuilder
   jsbundling-rails
   kamal
+  nokogiri (= 1.18.5)
   pg (~> 1.1)
   propshaft
   puma (>= 5.0)
